@@ -214,6 +214,36 @@
         <styleUrl>#style0</styleUrl>
         <ExtendedData>
           <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Franklin</SimpleData>
+            <SimpleData name="opened">1897</SimpleData>
+            <SimpleData name="closed">1955</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6352004000869,41.8768351878364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Wells St Terminal</SimpleData>
+            <SimpleData name="opened">1904</SimpleData>
+            <SimpleData name="closed">1953</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6341821132195,41.8777060182233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
             <SimpleData name="name">Market Terminal</SimpleData>
             <SimpleData name="opened">1893</SimpleData>
             <SimpleData name="closed">1948</SimpleData>
