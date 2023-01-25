@@ -1,0 +1,1940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="style0">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.40625</scale>
+        <Icon>
+          <href>images/icon_former_L_sta.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="31" yunits="pixels">
+        </hotSpot>
+      </IconStyle>
+    </Style>
+    <Style id="style1">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.412500375000036</scale>
+        <Icon>
+          <href>images/icon_former_L_sta_2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="31" yunits="pixels">
+        </hotSpot>
+      </IconStyle>
+    </Style>
+    <Schema id="schema0" name="">
+      <SimpleField name="name" type="string"></SimpleField>
+      <SimpleField name="opened" type="int"></SimpleField>
+      <SimpleField name="closed" type="int"></SimpleField>
+    </Schema>
+    <Folder>
+      <name>abd L stas</name>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">5th Ave</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.8389473044197,41.8752300049445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">11th Ave</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.8461451479845,41.8762603813266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">17th Ave</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.8535747535488,41.8772505590107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">25th Ave</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.863168782154,41.8780809287326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Bellwood</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.8779521620745,41.879321853572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Harrison</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.8787090681042,41.8712693600834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Roosevelt (Westchester)</SimpleData>
+            <SimpleData name="opened">1930</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.8783445480958,41.8636346893224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Canterbury</SimpleData>
+            <SimpleData name="opened">1930</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.877888037711,41.8562633231832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Mannheim/22nd</SimpleData>
+            <SimpleData name="opened">1930</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.881217964166,41.8497845178518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Sacramento</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7021735025231,41.8740226807538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Hoyne</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6789639521703,41.8756342328276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Canal</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6398999927917,41.8773046744296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Market Terminal</SimpleData>
+            <SimpleData name="opened">1893</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6369002535685,41.8821028411199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Randolph</SimpleData>
+            <SimpleData name="opened">1893</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6369620871137,41.8844355963937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Randolph/Wells</SimpleData>
+            <SimpleData name="opened">1897</SimpleData>
+            <SimpleData name="closed">1995</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6339266558976,41.8844390953666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Madison/Wells</SimpleData>
+            <SimpleData name="opened">1897</SimpleData>
+            <SimpleData name="closed">1994</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6338612391798,41.8819667365788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Dearborn/Van Buren</SimpleData>
+            <SimpleData name="opened">1897</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6292520713312,41.8768968620348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">State/Van Buren</SimpleData>
+            <SimpleData name="opened">1897</SimpleData>
+            <SimpleData name="closed">1973</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6277907635677,41.8769183931804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Madison/Wabash</SimpleData>
+            <SimpleData name="opened">1896</SimpleData>
+            <SimpleData name="closed">2015</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6262169234012,41.8820831518351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Randolph/Wabash</SimpleData>
+            <SimpleData name="opened">1896</SimpleData>
+            <SimpleData name="closed">2017</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6262758500301,41.884468672923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Halsted</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6474687479121,41.8759582555734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Racine</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6572736649419,41.8759239207813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Laflin</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6642745170533,41.8758001038703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Marshfield</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6680002301358,41.8757439861988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Ogden</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6735762880838,41.8756597720829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Western</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6866052454543,41.8755180289513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">California</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.696106985512,41.8753728226411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Kedzie</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7056518981419,41.8731652192481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">St. Louis</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7128779410224,41.873053656909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Garfield Park</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7195038799791,41.872950959491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Pulaski</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7251796710184,41.8728626843765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Tripp</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7318555856558,41.8727584950169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Kilbourn</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7380814231393,41.8726609797997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Cicero</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7447072978902,41.8725568276505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Laramie</SimpleData>
+            <SimpleData name="opened">1902</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7545085695454,41.8724020628307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Central</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.764352393604,41.8701381293205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Austin</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7741474862276,41.8707433115119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Lombard</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7795635905095,41.8711986971007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Gunderson</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7869109197265,41.8718283835728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Oak Park</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7937224858272,41.8723793987696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Home</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7992513912078,41.8728320374072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name"> Harlem</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.8048434300196,41.8733020808613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Hannah</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.8091730412437,41.8736553409736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Desplaines</SimpleData>
+            <SimpleData name="opened">1926</SimpleData>
+            <SimpleData name="closed">1958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.8149417141929,41.8741718726414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">58th</SimpleData>
+            <SimpleData name="opened">1893</SimpleData>
+            <SimpleData name="closed">1994</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6183034904328,41.7892266711664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Pershing</SimpleData>
+            <SimpleData name="opened">1892</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6256718180019,41.8240232645532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">33rd</SimpleData>
+            <SimpleData name="opened">1892</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6259463069484,41.8344512983383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">31st</SimpleData>
+            <SimpleData name="opened">1892</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6260545464992,41.8385627043476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">29th</SimpleData>
+            <SimpleData name="opened">1892</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6261395053213,41.8417895330803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">26th</SimpleData>
+            <SimpleData name="opened">1892</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6262464508808,41.8458510987364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">18th</SimpleData>
+            <SimpleData name="opened">1892</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6264449234014,41.858036668768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Congress</SimpleData>
+            <SimpleData name="opened">1902</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6268929327082,41.8756762886469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">aa</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1952</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7193295485736,41.9104502179627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">St. Louis</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1952</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7136504214964,41.9105381791855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Kedzie</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1952</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7064514224075,41.9106492768274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Humboldt Park</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1952</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7016854366357,41.9107225787196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">California</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1952</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.69671929547,41.9107987483637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Western</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1952</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6868870595973,41.9109489189042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">65th</SimpleData>
+            <SimpleData name="opened">1907</SimpleData>
+            <SimpleData name="closed">1954</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6356036774343,41.7764453399443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">69th</SimpleData>
+            <SimpleData name="opened">1907</SimpleData>
+            <SimpleData name="closed">1954</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6378274148616,41.7692522448624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Marquette Road</SimpleData>
+            <SimpleData name="opened">1907</SimpleData>
+            <SimpleData name="closed">1954</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6355112067111,41.7729509902479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Stony Island</SimpleData>
+            <SimpleData name="opened">1893</SimpleData>
+            <SimpleData name="closed">1982</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.5867076185973,41.7806640041946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Dorchester</SimpleData>
+            <SimpleData name="opened">1893</SimpleData>
+            <SimpleData name="closed">1973</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.5914848228552,41.7805950905959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">University</SimpleData>
+            <SimpleData name="opened">1893</SimpleData>
+            <SimpleData name="closed">1994</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.5978590133609,41.7805028299752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Willow</SimpleData>
+            <SimpleData name="opened">1905</SimpleData>
+            <SimpleData name="closed">1942</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6525526547968,41.9139213888274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">North Water Terminal</SimpleData>
+            <SimpleData name="opened">1908</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.633059450034,41.8885608354387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Lombard</SimpleData>
+            <SimpleData name="opened">1901</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7795823839588,41.8870902726553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Menard</SimpleData>
+            <SimpleData name="opened">1899</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7697791600424,41.8872565046086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Marion</SimpleData>
+            <SimpleData name="opened">1901</SimpleData>
+            <SimpleData name="closed">1962</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.8028961316779,41.8867077744944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">42nd Pl</SimpleData>
+            <SimpleData name="opened">1907</SimpleData>
+            <SimpleData name="closed">1957</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.5981726536298,41.8183237033151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Ellis–Lake Park</SimpleData>
+            <SimpleData name="opened">1907</SimpleData>
+            <SimpleData name="closed">1957</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6010489254106,41.8200144226976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Cottage Grove-Drexel</SimpleData>
+            <SimpleData name="opened">1907</SimpleData>
+            <SimpleData name="closed">1957</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6058977528982,41.8199439377005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Vincennes</SimpleData>
+            <SimpleData name="opened">1907</SimpleData>
+            <SimpleData name="closed">1957</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6127641719948,41.8219251966227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">South Parkway</SimpleData>
+            <SimpleData name="opened">1907</SimpleData>
+            <SimpleData name="closed">1957</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6164118275795,41.8218718218794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Wallace</SimpleData>
+            <SimpleData name="opened">1908</SimpleData>
+            <SimpleData name="closed">1957</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6410178595599,41.8217081616501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Halsted</SimpleData>
+            <SimpleData name="opened">1908</SimpleData>
+            <SimpleData name="closed">1957</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6457562649081,41.8194408998329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Exchange</SimpleData>
+            <SimpleData name="opened">1908</SimpleData>
+            <SimpleData name="closed">1957</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6513310793122,41.8187921276196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Racine</SimpleData>
+            <SimpleData name="opened">1908</SimpleData>
+            <SimpleData name="closed">1957</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6560181850255,41.818595745987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Armour</SimpleData>
+            <SimpleData name="opened">1908</SimpleData>
+            <SimpleData name="closed">1957</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6549233595245,41.8162097584493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Packers</SimpleData>
+            <SimpleData name="opened">1908</SimpleData>
+            <SimpleData name="closed">1957</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6586458326674,41.8149199942343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Swift</SimpleData>
+            <SimpleData name="opened">1908</SimpleData>
+            <SimpleData name="closed">1957</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6586007872001,41.8175879295413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">58th Ave</SimpleData>
+            <SimpleData name="opened">1915</SimpleData>
+            <SimpleData name="closed">1952</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7686554310435,41.8515691056116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Austin (60th Ave)</SimpleData>
+            <SimpleData name="opened">1915</SimpleData>
+            <SimpleData name="closed">1952</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7735544565599,41.8514907978734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Lombard (62nd Ave)</SimpleData>
+            <SimpleData name="opened">1924</SimpleData>
+            <SimpleData name="closed">1952</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7783868191751,41.851413350754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Ridgeland</SimpleData>
+            <SimpleData name="opened">1924</SimpleData>
+            <SimpleData name="closed">1952</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7833524784712,41.8513335552804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Oak Park</SimpleData>
+            <SimpleData name="opened">1924</SimpleData>
+            <SimpleData name="closed">1952</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7931504612086,41.851175476542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Central (56th Ave)</SimpleData>
+            <SimpleData name="opened">1915</SimpleData>
+            <SimpleData name="closed">1952</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7637230690865,41.8516477348767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Oak Park</SimpleData>
+            <SimpleData name="opened">1901</SimpleData>
+            <SimpleData name="closed">1962</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7942175759808,41.8868294258462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Ridgeland</SimpleData>
+            <SimpleData name="opened">1901</SimpleData>
+            <SimpleData name="closed">1962</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7844780153536,41.8870332770654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Austin</SimpleData>
+            <SimpleData name="opened">1901</SimpleData>
+            <SimpleData name="closed">1962</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7747242905789,41.8871804389127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Central</SimpleData>
+            <SimpleData name="opened">1899</SimpleData>
+            <SimpleData name="closed">1962</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7654060563081,41.8872450534068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Kostner</SimpleData>
+            <SimpleData name="opened">1894</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.735695100312,41.8860523013043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Hamlin</SimpleData>
+            <SimpleData name="opened">1894</SimpleData>
+            <SimpleData name="closed">1956</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7210098846536,41.885197035111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Homan</SimpleData>
+            <SimpleData name="opened">1894</SimpleData>
+            <SimpleData name="closed">1994</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7111614465982,41.8846204881976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Sacramento</SimpleData>
+            <SimpleData name="opened">1894</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7016313727154,41.8840883731648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Campbell</SimpleData>
+            <SimpleData name="opened">1893</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6887849294955,41.884565520104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Oakley</SimpleData>
+            <SimpleData name="opened">1893</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6840854304112,41.8847119040581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Damen</SimpleData>
+            <SimpleData name="opened">1893</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6767615614971,41.8849539754108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Lake Transfer</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6701575177761,41.8852230995633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Division</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6705309688673,41.9030689862701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Chicago</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6703394385749,41.8962199602919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Grand</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6702066516602,41.8910713371308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Madison</SimpleData>
+            <SimpleData name="opened">1895</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6700513584406,41.8816221506689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Loomis</SimpleData>
+            <SimpleData name="opened">1893</SimpleData>
+            <SimpleData name="closed">1951</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.662597796458,41.8853996534309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Racine</SimpleData>
+            <SimpleData name="opened">1893</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6568468256117,41.8855233257007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Morgan</SimpleData>
+            <SimpleData name="opened">1893</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6521447015174,41.8855749614602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Halsted</SimpleData>
+            <SimpleData name="opened">1893</SimpleData>
+            <SimpleData name="closed">1994</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6474920913384,41.8856069715463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Grand</SimpleData>
+            <SimpleData name="opened">1921</SimpleData>
+            <SimpleData name="closed">1970</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6356161094628,41.8915703871424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Oak</SimpleData>
+            <SimpleData name="opened">1906</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6366737677431,41.9003228484487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Division</SimpleData>
+            <SimpleData name="opened">1900</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6371499061435,41.9039314364249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Schiller</SimpleData>
+            <SimpleData name="opened">1900</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6372429271433,41.9074396180666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Larrabee</SimpleData>
+            <SimpleData name="opened">1900</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6436518656085,41.9103358455617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Halsted</SimpleData>
+            <SimpleData name="opened">1900</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6485398416607,41.9115531154686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Webster</SimpleData>
+            <SimpleData name="opened">1900</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6528148932556,41.9216596351461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Wrightwood</SimpleData>
+            <SimpleData name="opened">1900</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6529981854125,41.9289912482877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Clark</SimpleData>
+            <SimpleData name="opened">1900</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6534412967159,41.9432775749431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Grace</SimpleData>
+            <SimpleData name="opened">1900</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6536534906731,41.9512012032983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Buena</SimpleData>
+            <SimpleData name="opened">1900</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6546243552176,41.9584591619166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Ravenswood</SimpleData>
+            <SimpleData name="opened">1907</SimpleData>
+            <SimpleData name="closed">1949</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6751619344404,41.9648809835634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Isabella</SimpleData>
+            <SimpleData name="opened">1912</SimpleData>
+            <SimpleData name="closed">1973</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6883962992254,42.0690280721609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Kostner</SimpleData>
+            <SimpleData name="opened">1925</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7377399673093,42.0224199665648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Main</SimpleData>
+            <SimpleData name="opened">1925</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7496175384667,42.0337069369363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Crawford–East Prairie</SimpleData>
+            <SimpleData name="opened">1925</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.7274095401399,42.0224065171762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Dodge</SimpleData>
+            <SimpleData name="opened">1925</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6993879559472,42.0225490923129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Asbury</SimpleData>
+            <SimpleData name="opened">1925</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6903241359534,42.0220891594175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Ridge</SimpleData>
+            <SimpleData name="opened">1925</SimpleData>
+            <SimpleData name="closed">1948</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6847516983002,42.0218560225204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">Calvary</SimpleData>
+            <SimpleData name="opened">1908</SimpleData>
+            <SimpleData name="closed">1931</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.677862678645,42.0248394036299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
