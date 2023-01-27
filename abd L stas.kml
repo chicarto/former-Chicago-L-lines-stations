@@ -19,7 +19,7 @@
         <Icon>
           <href>images/icon_former_L_sta_2.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="31" yunits="pixels">
+        <hotSpot x="32" xunits="pixels" y="32" yunits="pixels">
         </hotSpot>
       </IconStyle>
     </Style>
@@ -1084,8 +1084,23 @@
         <styleUrl>#style0</styleUrl>
         <ExtendedData>
           <SchemaData schemaUrl="#schema0">
-            <SimpleData name="name">Marion</SimpleData>
+            <SimpleData name="name">Harlem</SimpleData>
             <SimpleData name="opened">1901</SimpleData>
+            <SimpleData name="closed">1962</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.8080616907361,41.8866380341744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#style0</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="name">River Forest</SimpleData>
+            <SimpleData name="opened">1910</SimpleData>
             <SimpleData name="closed">1962</SimpleData>
           </SchemaData>
         </ExtendedData>
